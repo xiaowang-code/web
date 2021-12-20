@@ -4,7 +4,10 @@
       <tr>
         <td valign="middle" align="center">
           <span style="font-size: 2em;">
-            Welcome <b-icon icon="github" variant="dark"></b-icon>
+            Welcome
+            <a href="https://github.com/xiaowang-code/web" target="_blank">
+              <b-icon icon="github" variant="dark"></b-icon>
+            </a>
           </span>
           <div>
             <b-avatar
@@ -59,7 +62,7 @@ export default {
 .header {
   font-size: 28px;
   text-align: center;
-  height: 750px;
+  height: calc(100vh);
   background: url(../assets/header.jpg) no-repeat;
   background-size: 100% 100%;
   background-attachment: fixed;
