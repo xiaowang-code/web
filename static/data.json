@@ -1,0 +1,7 @@
+{
+  "login": [
+    { "name": "admin", "pwd": "123123" },
+    { "name": "xiaowang", "pwd": "123456" }
+  ],
+  "main": []
+}
